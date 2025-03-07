@@ -6,10 +6,21 @@
 
 body {
     font-family: 'Roboto';
-    background-color: bisque;
+    background-color: #272727;
+    color: yellowgreen;
 }
 
 h1 , p{
     padding: 1.5rem;
+}
 
+a{
+    display: inline-block;
+    text-decoration: none;
+    color: crimson;
+    padding: .5rem;
+}
+
+h1, h2 {
+    color: tomato
 }
