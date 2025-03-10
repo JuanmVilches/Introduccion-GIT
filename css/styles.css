@@ -6,8 +6,8 @@
 
 body {
     font-family: 'Roboto';
-    background-color: #272727;
-    color: yellowgreen;
+    background-color: #a87e7e;
+    color: rgb(41, 56, 10);
 }
 
 h1 , p{
@@ -29,4 +29,10 @@ h1, h2 {
     color: white;
     font-weight: bold;
     text-align: center;
+}
+
+footer {
+    padding: 2rem;
+    background-color: #272727;
+    color: white;
 }
